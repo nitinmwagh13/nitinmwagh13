@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nitin Wagh</h1>
+<h3 align="center">A Passionate Java Developer From India</h3>
 
-<!--
-**nitinmwagh13/nitinmwagh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinmwagh13&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmwagh13" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--  __________________________________ About Me __________________________________ -->
+<h2 align="left">Hi Developers 👋 </h2>
+
+I'm a passionate **Java Backend / Full Stack Developer** with a strong foundation in **Core Java, Spring Boot, and backend system design**. I have hands-on experience in building **RESTful APIs, microservices-based applications, and database-driven web applications**. I enjoy solving backend problems, writing clean code, and continuously improving my skills through real-world projects and internships.
+
+---
+
+### 🔧 **Technologies & Tools**
+
+#### 🚀 **Backend Skills**
+- **Languages**: Java, SQL  
+- **Frameworks**: Spring Framework, Spring Boot, Spring MVC, Spring Security  
+- **ORM & Persistence**: Hibernate, Spring Data JPA  
+- **Architecture**: RESTful APIs, Microservices, MVC  
+- **Security**: JWT Authentication, Role-Based Access Control  
+- **Messaging**: Apache Kafka  
+- **Caching**: Redis  
+
+#### 🎨 **Frontend Skills**
+- **Languages**: HTML, CSS  
+- **Technologies**: JSP, Bootstrap  
+- **Frameworks (Basic Exposure)**: Angular, React.js  
+
+#### 🛠 **DevOps Skills** *(Learning & Exploring)*  
+- **Containerization**: Docker, Kubernetes  
+- **CI/CD**: Jenkins, CI/CD pipelines  
+- **Cloud Platforms (Basics)**:
+  - AWS EC2 (Elastic Compute Cloud)
+  - AWS S3 (Simple Sorage Service)  
+  - AWS RDS (Relational Database Service)  
+  - AWS IAM (Identity and Access Management)
+  - AWS ECR (Elastic Container Registry)
+  - AWS ECS (Elastic Container Service)
+  - AWS Lambda
+
+#### ⚡ **Apache Tools**
+- **Apache Kafka**: Event-driven messaging for asynchronous processing and scalable backend systems  
+
+#### 🛡️ **Other Skills**
+- **Version Control**: Git, GitHub  
+- **Build Tools**: Maven  
+- **Testing**: JUnit  
+- **Code Quality**: SonarQube  
+- **API Tools**: Postman, Swagger  
+- **IDE**: IntelliJ IDEA, Eclipse, VS Code  
+
+---
+
+### 🤝 **Let's Connect**
+I'm open to **Java Backend / Spring Boot opportunities**, collaboration on backend projects, and technical discussions.  
+Feel free to connect or explore my repositories for real-world Java projects.
+
+- [LinkedIn]([http://linkedin.com/in/om-chaudhari553](https://www.linkedin.com/in/nitin-m-wagh-83a604324/))
+<!--  __________________________________ My Github Stats __________________________________ -->
+
+
+<!--  __________________________________ Graph __________________________________ -->
+
+   <h3 align="left">📈 Graph</h3>
+  <p align="center">
+      <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+  </p>
+<br/> <br/> 
